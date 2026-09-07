@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Aayush Mishra">
+  <rect width="64" height="64" rx="14" fill="#07080a" />
+  <rect x="0.75" y="0.75" width="62.5" height="62.5" rx="13.25" fill="none" stroke="#f2b33d" stroke-opacity="0.28" stroke-width="1.5" />
+  <g fill="#f2b33d">
+    <rect x="14" y="34" width="7" height="16" rx="1.5" fill-opacity="0.55" />
+    <rect x="26" y="26" width="7" height="24" rx="1.5" fill-opacity="0.78" />
+    <rect x="38" y="14" width="7" height="36" rx="1.5" />
+  </g>
+</svg>
